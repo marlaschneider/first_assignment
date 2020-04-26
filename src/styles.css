@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-weight: 200;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(53, 53, 53);
+  border-style: double;
+  border-radius: 20px;
+  color: white;
+  padding: 10px;
+}
+
+ul {
+  color: rgb(53, 53, 53);
+  font-size: 16 px;
+  font-weight: 200;
+}
+p.laender {
+  font-size: 18px;
+  color: black;
+  font-weight: 500;
+  margin: 0px;
+  margin-top: 15px;
+}
